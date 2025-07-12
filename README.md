@@ -55,11 +55,14 @@ TMDB-MOVIE-SUCCESS-ANALYSIS/
 
 ---
 
-## 📷 Screenshots
+## 📷 Screenshots of Visualizations
 
 <p float="left">
   <img src="outputs/model_comparison.png" width="400"/>
   <img src="outputs/feature_importance.png" width="400"/>
+  <img src="outputs/budget_vs_revenue.png" width="400"/>
+  <img src="outputs/genre_sentiment_bar.png" width="400"/>
+  <img src="outputs/sentiment_genre_plot.png" width="400"/>
 </p>
 
 ---
