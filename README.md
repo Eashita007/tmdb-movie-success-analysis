@@ -99,5 +99,5 @@ streamlit run app_streamlit.py
 
 # 👩‍💻 Author
 Eashita Suvarna
-Creative Tech Explorer
+(Creative Tech Explorer)
 📬 LinkedIn - www.linkedin.com/in/eashita-s-851819251
